@@ -1,0 +1,44 @@
+[
+    {
+        "Products": [
+            "Menu lllustrations",
+            "5",
+            "$23.50",
+            "$117.50",
+            "Website lllustrations",
+            "5",
+            "$22.50",
+            "$112.50"
+        ]
+    },
+    {
+        "billing address": [
+            "296Port Rd.,Wilmington,DE"
+        ]
+    },
+    {
+        "Due_Date": [
+            "Mar-27-2024"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "311-555-0100"
+        ]
+    },
+    {
+        "Email_Client": [
+            "infoaseasidetavern.site.com"
+        ]
+    },
+    {
+        "Name_Client": [
+            "he SeasideTavern"
+        ]
+    },
+    {
+        "invoice date": [
+            "Feb-04-2024"
+        ]
+    }
+]

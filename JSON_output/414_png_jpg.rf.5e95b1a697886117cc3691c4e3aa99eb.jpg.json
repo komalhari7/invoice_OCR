@@ -1,0 +1,73 @@
+[
+    {
+        "Products": [
+            "Preliminary consultation",
+            "2",
+            "$19.50",
+            "$39",
+            "IT Systems assessment",
+            "1",
+            "$12.50",
+            "$12.50",
+            "Cyber security evaluation",
+            "3",
+            "$18",
+            "$54"
+        ]
+    },
+    {
+        "billing address": [
+            "252LindsaySt.,Miami,FL"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$105.50"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "(311555-0100"
+        ]
+    },
+    {
+        "total": [
+            "$101.60"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Pate & Reyes Recruitmen"
+        ]
+    },
+    {
+        "invoice number": [
+            "264415"
+        ]
+    },
+    {
+        "invoice date": [
+            "May-20-2024"
+        ]
+    },
+    {
+        "Email_Client": [
+            "nfo@patelreyes.site.com"
+        ]
+    },
+    {
+        "Due_Date": [
+            "10 Business Days"
+        ]
+    },
+    {
+        "Remise": [
+            "$112.90"
+        ]
+    },
+    {
+        "Tax": [
+            "$101.60"
+        ]
+    }
+]

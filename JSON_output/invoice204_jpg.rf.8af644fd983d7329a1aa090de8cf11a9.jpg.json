@@ -1,0 +1,52 @@
+[
+    {
+        "Products": [
+            "Toner",
+            "1",
+            "$15.0",
+            "$15.0",
+            "Serum",
+            "1",
+            "$10.0",
+            "$10.0",
+            "Facial Wash",
+            "2",
+            "$20.0",
+            "$40.0",
+            "Sunscreen",
+            "1",
+            "$515.0",
+            "$15.0"
+        ]
+    },
+    {
+        "Name_Client": [
+            "SamirgHadid"
+        ]
+    },
+    {
+        "billing address": [
+            "23 Anywhere St., Any City,ST 12345"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "+123-456-7890"
+        ]
+    },
+    {
+        "invoice number": [
+            "123456789"
+        ]
+    },
+    {
+        "invoice date": [
+            "25042022"
+        ]
+    },
+    {
+        "total": [
+            "$80.0"
+        ]
+    }
+]

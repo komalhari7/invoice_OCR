@@ -1,0 +1,46 @@
+[
+    {
+        "Products": [
+            "Lorem Ipsum dolor sit amet",
+            "1",
+            "$10",
+            "$10",
+            "Lorem Ipsum dolor sit amet",
+            "1",
+            "$10",
+            "$10",
+            "Lorem lpsum dolor sit amet",
+            "1",
+            "$10",
+            "$10",
+            "Lorem lpsum dolor sit amet",
+            "1",
+            "$10",
+            "$10",
+            "Lorem lpsum dolor sit amet",
+            "1",
+            "$10",
+            "$10"
+        ]
+    },
+    {
+        "invoice date": [
+            "5 May2022"
+        ]
+    },
+    {
+        "billing address": [
+            "23 Anywhere St.,AnyCity.ST12345"
+        ]
+    },
+    {
+        "billing address": [
+            "AnyCity.ST12345"
+        ]
+    },
+    {
+        "Name_Client": [
+            "MRSBAILEYDUPONT"
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "billing address": [
+            "327 Universal Wa",
+            "Malibu.CA"
+        ]
+    },
+    {
+        "Products": [
+            "moon'x4",
+            "$24.99",
+            "E.Tx2",
+            "$12.50",
+            "rover'x6",
+            "$27.99",
+            "flag'x12",
+            "$20.00"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Outer Worlds"
+        ]
+    },
+    {
+        "total": [
+            "$568.40"
+        ]
+    },
+    {
+        "Tax": [
+            "$35.50"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$532.90"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "555-234-789"
+        ]
+    }
+]

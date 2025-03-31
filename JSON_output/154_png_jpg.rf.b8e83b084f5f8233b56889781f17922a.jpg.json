@@ -1,0 +1,82 @@
+[
+    {
+        "invoice date": [
+            "01/02/2020"
+        ]
+    },
+    {
+        "billing address": [
+            "ESTATE",
+            "NJ"
+        ]
+    },
+    {
+        "Products": [
+            "DESCRIPTION",
+            "1",
+            "$4.00",
+            "DESCRIPTION",
+            "1",
+            "$4.00",
+            "DESCRIPTION",
+            "1",
+            "$4.00",
+            "DESCRIPTION",
+            "$4.00",
+            "DESCRIPTION",
+            "1",
+            "$4.00",
+            "DESCRIPTION",
+            "1",
+            "$4.00",
+            "DESCRIPTION",
+            "1",
+            "$4.00",
+            "DESCRIPTION",
+            "7",
+            "$4.00",
+            "DESCRIPTION",
+            "1",
+            "$4.00",
+            "DESCRIPTION",
+            "1",
+            "$4.00",
+            "DESCRIPTION",
+            "1",
+            "$4.00",
+            "DESCRIPTION",
+            "1",
+            "$4.00"
+        ]
+    },
+    {
+        "total": [
+            "$48.00"
+        ]
+    },
+    {
+        "billing address": [
+            "The Schaffer Group,",
+            "120 Raspberry Lane,",
+            "Oldtown,",
+            "N3"
+        ]
+    },
+    {
+        "Name_Client": [
+            "LIONHEIGHTS DEN"
+        ]
+    },
+    {
+        "billing address": [
+            "120 Raspberry Lane,",
+            "Oldtown,",
+            "N3"
+        ]
+    },
+    {
+        "Name_Client": [
+            "The Schaffer Croup,"
+        ]
+    }
+]

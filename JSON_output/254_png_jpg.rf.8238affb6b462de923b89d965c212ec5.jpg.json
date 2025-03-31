@@ -1,0 +1,63 @@
+[
+    {
+        "Products": [
+            "Security Event",
+            "Coverage",
+            "$19.50",
+            "$39",
+            "Private Security Services",
+            "$12.50",
+            "1",
+            "$12.50",
+            "Watch",
+            "$250",
+            "3",
+            "$54"
+        ]
+    },
+    {
+        "billing address": [
+            "282Pierce St.,San Francisco,CA"
+        ]
+    },
+    {
+        "invoice number": [
+            "22636655"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$105.50"
+        ]
+    },
+    {
+        "invoice number": [
+            "$101.60"
+        ]
+    },
+    {
+        "invoice date": [
+            "Jan-11-2024"
+        ]
+    },
+    {
+        "Email_Client": [
+            "nfo@acorncc.site.com"
+        ]
+    },
+    {
+        "total": [
+            "6101.60"
+        ]
+    },
+    {
+        "Remise": [
+            "$101.60"
+        ]
+    },
+    {
+        "Due_Date": [
+            "Jan-11-2024"
+        ]
+    }
+]

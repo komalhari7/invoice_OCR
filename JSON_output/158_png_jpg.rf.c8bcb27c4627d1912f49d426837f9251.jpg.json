@@ -1,0 +1,55 @@
+[
+    {
+        "Products": [
+            "Pipe leak repairs",
+            "2",
+            "$50",
+            "$100",
+            "Maintenance",
+            "3",
+            "$30.50",
+            "$91.50",
+            "checks"
+        ]
+    },
+    {
+        "Due_Date": [
+            "Jun-27-2023"
+        ]
+    },
+    {
+        "billing address": [
+            "1966 Elm St,New Haven,CT"
+        ]
+    },
+    {
+        "invoice date": [
+            "Jun-17-2023"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "555-285-4855"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$191.50"
+        ]
+    },
+    {
+        "total": [
+            "$194.65"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Armstrong Engineering Ltd"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Armstrong Engineering Lto"
+        ]
+    }
+]

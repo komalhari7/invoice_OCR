@@ -1,0 +1,64 @@
+[
+    {
+        "Products": [
+            "Pipe leak repairs",
+            "2",
+            "$50",
+            "$100",
+            "Maintenance checks",
+            "3",
+            "$30.50",
+            "$91.50"
+        ]
+    },
+    {
+        "invoice date": [
+            "Jun-17-2023"
+        ]
+    },
+    {
+        "Tax": [
+            "$13.40"
+        ]
+    },
+    {
+        "billing address": [
+            "626 Denver St.New Haven,CT"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "311-555-0100"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Nicholson Opticians"
+        ]
+    },
+    {
+        "Email_Client": [
+            "info@nicholsonopticians.site.com"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$191.50"
+        ]
+    },
+    {
+        "total": [
+            "$194.65"
+        ]
+    },
+    {
+        "invoice number": [
+            "01255547"
+        ]
+    },
+    {
+        "Due_Date": [
+            "Jun-27-2023"
+        ]
+    }
+]

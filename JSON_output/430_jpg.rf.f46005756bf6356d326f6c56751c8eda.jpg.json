@@ -1,0 +1,69 @@
+[
+    {
+        "Discount_Percentage": [
+            "10%"
+        ]
+    },
+    {
+        "Products": [
+            "Small van rental",
+            "1",
+            "$25.90",
+            "$25.90",
+            "Large van rental",
+            "2",
+            "$34.75",
+            "$69.50"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "311-555-0100"
+        ]
+    },
+    {
+        "invoice date": [
+            "Sep-02-20XX"
+        ]
+    },
+    {
+        "billing address": [
+            "828 SunflowerLn.Pittsburg,PA"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Vauqhan &HughesLto"
+        ]
+    },
+    {
+        "total": [
+            "$85.86"
+        ]
+    },
+    {
+        "Due_Date": [
+            "Oct-20-20XX"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$95.40"
+        ]
+    },
+    {
+        "Email_Client": [
+            "info@vaughanhughes.site.com"
+        ]
+    },
+    {
+        "invoice number": [
+            "#26-15555"
+        ]
+    },
+    {
+        "Tax": [
+            "$0"
+        ]
+    }
+]

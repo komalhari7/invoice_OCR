@@ -1,0 +1,60 @@
+[
+    {
+        "Tax": [
+            "$13.40"
+        ]
+    },
+    {
+        "Products": [
+            "Water drain excavation",
+            "2",
+            "$50",
+            "$100",
+            "Retaining wall construction",
+            "3",
+            "$30.50",
+            "$91.50"
+        ]
+    },
+    {
+        "billing address": [
+            "263 Medlar Rd.",
+            "Sacramento.CA"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Bradford Country Club"
+        ]
+    },
+    {
+        "Due_Date": [
+            "ct-10-20XX"
+        ]
+    },
+    {
+        "invoice date": [
+            "Sep-10-20XX"
+        ]
+    },
+    {
+        "Email_Client": [
+            "info@bradfordcc.site.com"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "(311555-0100"
+        ]
+    },
+    {
+        "total": [
+            "$194.65"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$191.50"
+        ]
+    }
+]

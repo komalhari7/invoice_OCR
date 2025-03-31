@@ -1,0 +1,43 @@
+[
+    {
+        "Products": [
+            "Lavender Event Poster",
+            "$30.00",
+            "30",
+            "$900.00",
+            "Burgundy Event Fiyer",
+            "$30.00",
+            "30",
+            "$900.00",
+            "Charcoal Bifold Brochure",
+            "$30.00",
+            "30",
+            "$900.00",
+            "Delivery Fee",
+            "$10.00",
+            "1",
+            "$10.00"
+        ]
+    },
+    {
+        "billing address": [
+            "Biling Section",
+            "Wardiere inc,"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$2710.00"
+        ]
+    },
+    {
+        "total": [
+            "$2439.00"
+        ]
+    },
+    {
+        "Name_Client": [
+            "s.Helene Paquet"
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "Products": [
+            "LOGO DEL'ENTREPRISE",
+            "01",
+            "500",
+            "500",
+            "CONCEPTION DE L'AFFICHE",
+            "01",
+            "160",
+            "160",
+            "CONCEPTION DU SITE WEB",
+            "01",
+            "150",
+            "150"
+        ]
+    },
+    {
+        "billing address": [
+            "Mrue Desgix",
+            "75110.Paris"
+        ]
+    },
+    {
+        "Subtotal": [
+            "810.99"
+        ]
+    },
+    {
+        "total": [
+            "762,39"
+        ]
+    },
+    {
+        "Name_Client": [
+            "M.SAM DIDIER"
+        ]
+    }
+]

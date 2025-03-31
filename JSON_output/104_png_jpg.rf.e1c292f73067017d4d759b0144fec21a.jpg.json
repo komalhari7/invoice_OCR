@@ -1,0 +1,68 @@
+[
+    {
+        "invoice number": [
+            "123366"
+        ]
+    },
+    {
+        "Products": [
+            "Flyers100 pack",
+            "1",
+            "$22",
+            "$22",
+            "Posters 10 pack",
+            "1",
+            "$25.50",
+            "$25.50",
+            "Invitations 50 pack",
+            "1",
+            "$34",
+            "$34"
+        ]
+    },
+    {
+        "Email_Client": [
+            "info@lailanievents.com"
+        ]
+    },
+    {
+        "Due_Date": [
+            "Apr-29-2024"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "555-484-2556"
+        ]
+    },
+    {
+        "billing address": [
+            "194 Warley StBaltimore.MD"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Lailani Event Co."
+        ]
+    },
+    {
+        "invoice date": [
+            "Apr-19-2024"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$81.50"
+        ]
+    },
+    {
+        "total": [
+            "$88.65"
+        ]
+    },
+    {
+        "invoice date": [
+            "19666VT"
+        ]
+    }
+]

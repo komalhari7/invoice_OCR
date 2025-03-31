@@ -1,0 +1,58 @@
+[
+    {
+        "Products": [
+            "Lemon Bath Salts 50ml",
+            "$3.60",
+            "10",
+            "$36",
+            "Lavender Bath Salts 25ml",
+            "$3",
+            "4",
+            "$12",
+            "Patchouli Bath Bomb 20ml",
+            "$2.50",
+            "5",
+            "$12.50"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "311-555-0100"
+        ]
+    },
+    {
+        "billing address": [
+            "557PalmsSt.Pasadena,CA"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Roya Hotel &Spa"
+        ]
+    },
+    {
+        "Due_Date": [
+            "D5-31-2024"
+        ]
+    },
+    {
+        "invoice date": [
+            "05-19-2024"
+        ]
+    },
+    {
+        "Email_Client": [
+            "nfo@royahotelspa.site.com"
+        ]
+    },
+    {
+        "invoice number": [
+            "#1525555"
+        ]
+    },
+    {
+        "total": [
+            "$61.49"
+        ]
+    }
+]

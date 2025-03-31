@@ -1,0 +1,43 @@
+[
+    {
+        "invoice number": [
+            "001245"
+        ]
+    },
+    {
+        "Due_Date": [
+            "07/18/2024"
+        ]
+    },
+    {
+        "Products": [
+            "Extension design consultation",
+            "$29",
+            "10",
+            "$290",
+            "$30",
+            "10",
+            "$300"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Mosley Construction Co"
+        ]
+    },
+    {
+        "invoice date": [
+            "06/18/2024"
+        ]
+    },
+    {
+        "Email_Client": [
+            "infoamosleyconstruct.site.com"
+        ]
+    },
+    {
+        "billing address": [
+            "252 RedrowSt.Minneapolis"
+        ]
+    }
+]

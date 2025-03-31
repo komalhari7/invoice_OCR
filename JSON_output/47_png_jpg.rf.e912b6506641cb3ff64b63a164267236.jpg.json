@@ -1,0 +1,50 @@
+[
+    {
+        "billing address": [
+            "New York,NY 12210",
+            "2 Court Square"
+        ]
+    },
+    {
+        "shipping address": [
+            "3787Pineview Drive",
+            "Cambridge,MA 12210"
+        ]
+    },
+    {
+        "Products": [
+            "1",
+            "Front and rear brake cables",
+            "100.00",
+            "100.00",
+            "2",
+            "New set ofpedal arms",
+            "15.00",
+            "30.00",
+            "3",
+            "Labor 3hrs",
+            "5.00",
+            "15.00"
+        ]
+    },
+    {
+        "invoice date": [
+            "11/02/2019"
+        ]
+    },
+    {
+        "Due_Date": [
+            "26/02/2019"
+        ]
+    },
+    {
+        "Name_Client": [
+            "John Smith."
+        ]
+    },
+    {
+        "total": [
+            "$154.06"
+        ]
+    }
+]

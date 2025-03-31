@@ -1,0 +1,42 @@
+[
+    {
+        "billing address": [
+            "6 RUE LUCIE AUBRAC",
+            "74000",
+            "ANNECY"
+        ]
+    },
+    {
+        "invoice number": [
+            "339819"
+        ]
+    },
+    {
+        "Name_Client": [
+            "ANNECYMARCHE"
+        ]
+    },
+    {
+        "Products": [
+            "314",
+            "LDA BASMATI SKG",
+            "5.000",
+            "12.60",
+            "11,94",
+            "0.00",
+            "0,00000",
+            "5.50",
+            "63,00"
+        ]
+    },
+    {
+        "Due_Date": [
+            "23/04/2021"
+        ]
+    },
+    {
+        "invoice date": [
+            "23/04/2021"
+        ]
+    }
+]

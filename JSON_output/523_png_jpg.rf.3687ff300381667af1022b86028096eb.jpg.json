@@ -1,0 +1,72 @@
+[
+    {
+        "Products": [
+            "Social Media Account",
+            "2",
+            "500",
+            "1,000",
+            "One-time Set up",
+            "Social Media",
+            "2",
+            "700",
+            "1,400",
+            "Monthly Management",
+            "Social Media",
+            "30",
+            "20",
+            "600",
+            "Graphics",
+            "Social Media",
+            "2",
+            "700",
+            "1,400",
+            "Monthly Engagement",
+            "Social Media",
+            "2",
+            "500",
+            "1,000",
+            "Monthly Report"
+        ]
+    },
+    {
+        "billing address": [
+            "123 Anywhere St.,",
+            "AnyCityST12345"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$5,400.00"
+        ]
+    },
+    {
+        "invoice date": [
+            "October17,2025"
+        ]
+    },
+    {
+        "invoice date": [
+            "October18,2025"
+        ]
+    },
+    {
+        "total": [
+            "$5,600.00"
+        ]
+    },
+    {
+        "Tax": [
+            "$200.00"
+        ]
+    },
+    {
+        "Name_Client": [
+            "taPerez"
+        ]
+    },
+    {
+        "Name_Client": [
+            "INVOICE NUMBER:"
+        ]
+    }
+]

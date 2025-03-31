@@ -1,0 +1,53 @@
+[
+    {
+        "billing address": [
+            "74000 ANNECY",
+            "FRANCE"
+        ]
+    },
+    {
+        "Name_Client": [
+            "ANNECY MARCHE"
+        ]
+    },
+    {
+        "total": [
+            "14,66EUR"
+        ]
+    },
+    {
+        "shipping address": [
+            "SANNECY MARCHE G RUE LUCIE AUBRAC ZAOOO ANNECY"
+        ]
+    },
+    {
+        "Products": [
+            "CommandeN 37257 du09/03/21 BLN59537du09/03/21",
+            "SAERT",
+            "SEMIOULEBLEEXTRAFINEREN",
+            "A151016",
+            "1,0010.000",
+            "10P",
+            "1.390",
+            "13.90",
+            "55"
+        ]
+    },
+    {
+        "invoice number": [
+            "FACTURE"
+        ]
+    },
+    {
+        "Products": [
+            "RAFINEREN",
+            "570009/03/2860N",
+            "A151016",
+            "1.0010.000",
+            "10P",
+            "1.390",
+            "13.90",
+            "55"
+        ]
+    }
+]

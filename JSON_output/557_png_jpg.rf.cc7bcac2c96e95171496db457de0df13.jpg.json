@@ -1,0 +1,36 @@
+[
+    {
+        "Products": [
+            "Your itemised description goes here",
+            "$100.00",
+            "S100.00",
+            "Your itemised description goes here",
+            "$100.00",
+            "$100.00",
+            "Your iremised descriprion goes here",
+            "$100.00",
+            "$100.00",
+            "Your itemised description goes here",
+            "$100.00",
+            "S100.00",
+            "Your itemised descriprion goes here",
+            "S100.00",
+            "$100.00"
+        ]
+    },
+    {
+        "Email_Client": [
+            "hellogreallygreatsite.com"
+        ]
+    },
+    {
+        "Due_Date": [
+            "MEY2022"
+        ]
+    },
+    {
+        "billing address": [
+            "eally Great Compan"
+        ]
+    }
+]

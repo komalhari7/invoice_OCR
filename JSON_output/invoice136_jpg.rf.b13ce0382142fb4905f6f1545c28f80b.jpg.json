@@ -1,0 +1,57 @@
+[
+    {
+        "Products": [
+            "Social",
+            "Media",
+            "Post",
+            "20",
+            "100",
+            "$",
+            "2000",
+            "N",
+            "Copywriting",
+            "5",
+            "$",
+            "50",
+            "$",
+            "250"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Alfredo Torres"
+        ]
+    },
+    {
+        "invoice number": [
+            "#123456"
+        ]
+    },
+    {
+        "total": [
+            "$2250"
+        ]
+    },
+    {
+        "billing address": [
+            "123 Anywhere St",
+            "Any city.",
+            "ST12345"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "AnyCity,ST12345"
+        ]
+    },
+    {
+        "invoice date": [
+            "01April2022"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Issued:"
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "invoice number": [
+            "114829"
+        ]
+    },
+    {
+        "billing address": [
+            "82CornSt Boston.MA"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "311-555-0102"
+        ]
+    },
+    {
+        "Email_Client": [
+            "info@adkinstechco.site.com"
+        ]
+    },
+    {
+        "Due_Date": [
+            "Oct-28-2024"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Adkins Tech&Co"
+        ]
+    },
+    {
+        "total": [
+            "$44.61"
+        ]
+    },
+    {
+        "invoice date": [
+            "Sep-08-2024"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$50.50"
+        ]
+    },
+    {
+        "Products": [
+            "Digital Lockinstallation",
+            "1",
+            "$20.50",
+            "$20.50",
+            "CCTV system installation",
+            "1",
+            "$30",
+            "$30"
+        ]
+    }
+]

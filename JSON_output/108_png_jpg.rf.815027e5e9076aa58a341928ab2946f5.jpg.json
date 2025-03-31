@@ -1,0 +1,29 @@
+[
+    {
+        "Products": [
+            "Honey  lavender body lotion",
+            "S12",
+            "3",
+            "$36",
+            "33.8z",
+            "Ginger &Aloe face mask",
+            "$3",
+            "4",
+            "$12",
+            "Strawberry exfoliating lip scrub",
+            "$2.50",
+            "5",
+            "$12.50"
+        ]
+    },
+    {
+        "Due_Date": [
+            "0/10/2024"
+        ]
+    },
+    {
+        "invoice date": [
+            "08/10/2024"
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "invoice date": [
+            "20-May-2022"
+        ]
+    },
+    {
+        "shipping address": [
+            "Near Hotel Hot Chips,"
+        ]
+    },
+    {
+        "Name_Client": [
+            "MAJESTICHARDWARE"
+        ]
+    },
+    {
+        "billing address": [
+            "4/812.Velachery Main Road,Medavakkam",
+            "Near HotelHot Chips,",
+            "Chennal-600100"
+        ]
+    },
+    {
+        "total": [
+            "10.530.00"
+        ]
+    },
+    {
+        "Products": [
+            "ECS-WHT-813 WALLHUNG",
+            "10Pcs",
+            "920.00Pcs",
+            "9,200.00",
+            "Less:",
+            "OUTPUTCGST",
+            "(-)276.00",
+            "803.16",
+            "803.16",
+            "Less.",
+            "0.32"
+        ]
+    },
+    {
+        "Products": [
+            "ACCESSORIES",
+            "ECS-WHT-S13 WALL HUNG BASIN WITH FIXING",
+            "69109000",
+            "10 Pc5",
+            "92"
+        ]
+    },
+    {
+        "Name_Client": [
+            "MAJESTICHARDWARE"
+        ]
+    },
+    {
+        "Products": [
+            "T-SI3WALLHUNG BASIN WITHFIXING",
+            "69109000",
+            "10Pc5",
+            "920.00Pcs",
+            "9,200.0"
+        ]
+    },
+    {
+        "billing address": [
+            "4/612,VelacheryMain Road,Me<",
+            "800100"
+        ]
+    }
+]

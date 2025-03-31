@@ -1,0 +1,39 @@
+[
+    {
+        "Products": [
+            "Social Media Management",
+            "$45.00",
+            "20.00",
+            "$900.00",
+            "Branded Graphics",
+            "$245.00",
+            "1.00",
+            "$245.00",
+            "Update Blog Post",
+            "$55.00",
+            "1.00",
+            "$55.00"
+        ]
+    },
+    {
+        "total": [
+            "S1200.00"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Ms.Taylor Alonso"
+        ]
+    },
+    {
+        "invoice number": [
+            "2032-001"
+        ]
+    },
+    {
+        "billing address": [
+            "Founder&Owne",
+            "Thynk Unlimited"
+        ]
+    }
+]

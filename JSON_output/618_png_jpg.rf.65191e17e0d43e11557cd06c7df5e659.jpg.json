@@ -1,0 +1,67 @@
+[
+    {
+        "Email_Client": [
+            "philstanfordaemall.com"
+        ]
+    },
+    {
+        "total": [
+            "$2112.25"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "7620930951092"
+        ]
+    },
+    {
+        "Products": [
+            "HILIPPE",
+            "Web Design",
+            "1",
+            "$200.00",
+            "$200.00",
+            "TANFORD",
+            "4298 10921092",
+            "762093095 1092",
+            "Branding",
+            "1",
+            "$350.00",
+            "$350,00",
+            "hilstanford@email.com",
+            "Graphic Design",
+            "27",
+            "$55.00",
+            "$1485.00",
+            "Web Development",
+            "1",
+            "$450.00",
+            "$450.00"
+        ]
+    },
+    {
+        "Tax": [
+            "$2112.25"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$2485.00"
+        ]
+    },
+    {
+        "Name_Client": [
+            "STANFORD"
+        ]
+    },
+    {
+        "billing address": [
+            "(04)29810921092"
+        ]
+    },
+    {
+        "invoice number": [
+            "982093"
+        ]
+    }
+]

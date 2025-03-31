@@ -1,0 +1,112 @@
+[
+    {
+        "Products": [
+            "Service 1",
+            "2h",
+            "50,00",
+            "100,00",
+            "10%",
+            "10,00",
+            "110,00",
+            "Description du Service 1",
+            "Produit 1",
+            "1 pc",
+            "300,00",
+            "300.00",
+            "20%",
+            "60,00",
+            "360.00",
+            "Description du Produit 1",
+            "Service2",
+            "1h",
+            "35.00",
+            "35,00",
+            "20%",
+            "7.00",
+            "42,00",
+            "Produit2e",
+            "1pc",
+            "250,00",
+            "250,00",
+            "20%",
+            "50,00",
+            "300.00"
+        ]
+    },
+    {
+        "Products": [
+            "Service 1",
+            "2h",
+            "50.00",
+            "100.00",
+            "10%",
+            "10.00",
+            "110.00",
+            "Description du Service1",
+            "Produit1",
+            "1.5L",
+            "18,00",
+            "27.00",
+            "20%",
+            "5.40",
+            "32.40"
+        ]
+    },
+    {
+        "billing address": [
+            "13 rue du Paradis",
+            "75014Paris.France"
+        ]
+    },
+    {
+        "Subtotal": [
+            "01300"
+        ]
+    },
+    {
+        "Name_Client": [
+            "M.&Mme Dupont"
+        ]
+    },
+    {
+        "Due_Date": [
+            "8/06/2020"
+        ]
+    },
+    {
+        "billing address": [
+            "75018 Paris,France",
+            "Numero TVAFR5213719114"
+        ]
+    },
+    {
+        "Subtotal": [
+            "10.00"
+        ]
+    },
+    {
+        "Remise": [
+            "OEAA"
+        ]
+    },
+    {
+        "Name_Client": [
+            "32 Rue du Commerce"
+        ]
+    },
+    {
+        "total": [
+            "OEAN"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "+33.1.67.86.34.67"
+        ]
+    },
+    {
+        "Subtotal": [
+            "110.00"
+        ]
+    }
+]

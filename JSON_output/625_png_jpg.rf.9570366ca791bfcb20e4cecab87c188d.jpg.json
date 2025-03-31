@@ -1,0 +1,37 @@
+[
+    {
+        "invoice date": [
+            "December 2022"
+        ]
+    },
+    {
+        "invoice number": [
+            "1009-01"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$13540"
+        ]
+    },
+    {
+        "total": [
+            "$14894"
+        ]
+    },
+    {
+        "Products": [
+            "Brand Analysis",
+            "S2000",
+            "Identity Design",
+            "$6500",
+            "Logo Design",
+            "Visual Design",
+            "Application Design",
+            "Brand Guideline",
+            "$3500",
+            "Identity Usage Training",
+            "S1540"
+        ]
+    }
+]

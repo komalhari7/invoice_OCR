@@ -1,0 +1,32 @@
+[
+    {
+        "billing address": [
+            "69rue Nations",
+            "22000Paris"
+        ]
+    },
+    {
+        "total": [
+            "174.00C"
+        ]
+    },
+    {
+        "Products": [
+            "Grand brun escargot pour manger",
+            "100.00",
+            "100.00",
+            "Petitmariniere uniforme en bleu",
+            "15.00",
+            "30.00",
+            "Facile a jouer accordeon",
+            "5.00",
+            "15.00"
+        ]
+    },
+    {
+        "shipping address": [
+            "46 Rue St Fenreol",
+            "92360lle-de-France"
+        ]
+    }
+]

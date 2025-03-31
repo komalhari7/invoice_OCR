@@ -1,0 +1,23 @@
+[
+    {
+        "Products": [
+            "$100",
+            "$100",
+            "$100",
+            "$100",
+            "$100",
+            "$100"
+        ]
+    },
+    {
+        "billing address": [
+            "123Anywhere St.,",
+            "Any City,sT12345"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Estelle Darcy"
+        ]
+    }
+]

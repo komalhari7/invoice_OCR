@@ -1,0 +1,32 @@
+[
+    {
+        "invoice date": [
+            "02.10.2019"
+        ]
+    },
+    {
+        "Products": [
+            "total aupres dOrange",
+            "59.31",
+            "71.17"
+        ]
+    },
+    {
+        "shipping address": [
+            "VILLENEUVE-SAINT-GEORGES"
+        ]
+    },
+    {
+        "billing address": [
+            "17D9-2J03 date de facture",
+            "de facture:0153818770",
+            "03/10/2019"
+        ]
+    },
+    {
+        "billing address": [
+            "9AVENUE ALEO ALAGRANGE,APT A218",
+            "94I90 VIALALENEUVE-SAINT-GEORGES"
+        ]
+    }
+]

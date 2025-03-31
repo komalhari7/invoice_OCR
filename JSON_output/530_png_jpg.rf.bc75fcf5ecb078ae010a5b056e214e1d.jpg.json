@@ -1,0 +1,46 @@
+[
+    {
+        "Products": [
+            "Canception de site web",
+            "20.00",
+            "100",
+            "2000.00",
+            "Conception de logo",
+            "10.00",
+            "75",
+            "750.00",
+            "Image de marque",
+            "40.00",
+            "100",
+            "4000.00",
+            "Garanties Marketing",
+            "15.00",
+            "75",
+            "1125.00",
+            "Simulation d'evenements",
+            "15.00",
+            "75",
+            "1125,00"
+        ]
+    },
+    {
+        "Name_Client": [
+            "MJACOUESHERVE"
+        ]
+    },
+    {
+        "invoice number": [
+            "0123456"
+        ]
+    },
+    {
+        "billing address": [
+            "1,rue des Gras 03200Vich"
+        ]
+    },
+    {
+        "Tel_Client": [
+            "0470456789"
+        ]
+    }
+]

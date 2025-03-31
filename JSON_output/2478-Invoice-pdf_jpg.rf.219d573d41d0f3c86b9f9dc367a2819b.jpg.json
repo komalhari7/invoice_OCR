@@ -1,0 +1,56 @@
+[
+    {
+        "invoice number": [
+            "2478/22-23"
+        ]
+    },
+    {
+        "shipping address": [
+            "A-BLOCK-1303",
+            "SPR PERAMBUR"
+        ]
+    },
+    {
+        "invoice date": [
+            "15-Dec-2022"
+        ]
+    },
+    {
+        "Name_Client": [
+            "UNGUPTA"
+        ]
+    },
+    {
+        "Products": [
+            "GRAVO MARFIL DECOR 2X2 KAJARIA",
+            "690721004.00B0X",
+            "813.55Bx",
+            "3,254.20",
+            "OUTPUTCGST9%",
+            "OUTPUTSGST@9%",
+            "292.88",
+            "292.88",
+            "Rounded Off",
+            "0.04"
+        ]
+    },
+    {
+        "billing address": [
+            "A-8LOCK-1303",
+            "SPRI"
+        ]
+    },
+    {
+        "Name_Client": [
+            "ARUN GUPTA"
+        ]
+    },
+    {
+        "Products": [
+            "DECOR 2X2 KAJARIA",
+            "690721004.00B0x",
+            "813.55.80x",
+            "3,254."
+        ]
+    }
+]

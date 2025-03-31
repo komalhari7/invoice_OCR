@@ -1,0 +1,48 @@
+[
+    {
+        "Products": [
+            "SPOTLIGHT INSTALLATION",
+            "$25",
+            "2",
+            "$50",
+            "ED LIGHTING INSTALLATION",
+            "$35",
+            "10",
+            "$350",
+            "POWER SOCKET INSTALLATION",
+            "$30.50",
+            "3",
+            "$91.50"
+        ]
+    },
+    {
+        "Name_Client": [
+            "GRIFFITHS EXHIBITIONSPACE"
+        ]
+    },
+    {
+        "billing address": [
+            "136CORLEYST.,ST.LOUIS,MO"
+        ]
+    },
+    {
+        "Email_Client": [
+            "INEO@GRIFFITHSES.SITE.COM"
+        ]
+    },
+    {
+        "Due_Date": [
+            "05-05-2024"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$491.50"
+        ]
+    },
+    {
+        "Due_Date": [
+            "DATE:05-05-2024"
+        ]
+    }
+]

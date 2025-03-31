@@ -1,0 +1,67 @@
+[
+    {
+        "Products": [
+            "1",
+            "Photo shoot",
+            "300.00",
+            "1",
+            "300.00",
+            "2",
+            "Make up",
+            "300.00",
+            "1",
+            "300.00",
+            "3",
+            "Hairstyle",
+            "300.00",
+            "1",
+            "300.00",
+            "4",
+            "Photo retouching",
+            "300.00",
+            "1",
+            "300.00"
+        ]
+    },
+    {
+        "invoice number": [
+            "#545"
+        ]
+    },
+    {
+        "invoice date": [
+            "22/11/2022"
+        ]
+    },
+    {
+        "Tax": [
+            "120.00"
+        ]
+    },
+    {
+        "total": [
+            "1,320.00"
+        ]
+    },
+    {
+        "Due_Date": [
+            "02/12/2022"
+        ]
+    },
+    {
+        "Subtotal": [
+            "1,200.00"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Anya Block"
+        ]
+    },
+    {
+        "billing address": [
+            "Norwich.NH7 3DT",
+            "Flat2.90 LeanStreet"
+        ]
+    }
+]

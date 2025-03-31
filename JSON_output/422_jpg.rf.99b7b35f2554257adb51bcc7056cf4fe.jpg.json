@@ -1,0 +1,75 @@
+[
+    {
+        "Products": [
+            "01",
+            "Party",
+            "dresses",
+            "$69",
+            "02",
+            "$138",
+            "02",
+            "Bracelets",
+            "$5",
+            "05",
+            "$25",
+            "03",
+            "Earrings",
+            "$29",
+            "02",
+            "$58",
+            "04",
+            "High heels",
+            "$29",
+            "01",
+            "$29"
+        ]
+    },
+    {
+        "Subtotal": [
+            "$250"
+        ]
+    },
+    {
+        "invoice number": [
+            "#565456"
+        ]
+    },
+    {
+        "total": [
+            "$275"
+        ]
+    },
+    {
+        "billing address": [
+            "2077 Sussex Court, Texas,",
+            "TX,76552"
+        ]
+    },
+    {
+        "Tax": [
+            "$25"
+        ]
+    },
+    {
+        "invoice date": [
+            "19/09/2020"
+        ]
+    },
+    {
+        "billing address": [
+            "Invoice",
+            "207",
+            "7 Sussex Court,Texas,"
+        ]
+    },
+    {
+        "Name_Client": [
+            "Elisabeth Walke"
+        ]
+    },
+    {
+        "Due_Date": [
+            "19/09/2020"
+        ]
+    }
+]
